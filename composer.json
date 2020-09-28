@@ -40,7 +40,7 @@
     ],
     "require": {
         "php": "^7.4.0",
-        "felixkiss/uniquewith-validator": "^3.4.0",
+        "felixkiss/uniquewith-validator": "dev-master",
         "illuminate/auth": "^8.0.0",
         "illuminate/bus": "^8.0.0",
         "illuminate/contracts": "^8.0.0",
@@ -48,7 +48,7 @@
         "illuminate/routing": "^8.0.0",
         "illuminate/support": "^8.0.0",
         "illuminate/validation": "^8.0.0",
-        "spatie/laravel-schemaless-attributes": "^1.7.0",
+        "spatie/laravel-schemaless-attributes": "dev-master",
         "watson/validating": "^6.0.0"
     },
     "require-dev": {
